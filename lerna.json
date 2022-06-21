@@ -1,0 +1,5 @@
+{
+  "packages": ["studio","web"],
+  "useWorkspaces": true,
+  "version": "independent"
+}
